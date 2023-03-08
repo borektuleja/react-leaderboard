@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-leaderboard/static/css/main.1a3531e7.css",
+    "main.js": "/react-leaderboard/static/js/main.ce4fec34.js",
+    "index.html": "/react-leaderboard/index.html",
+    "main.1a3531e7.css.map": "/react-leaderboard/static/css/main.1a3531e7.css.map",
+    "main.ce4fec34.js.map": "/react-leaderboard/static/js/main.ce4fec34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3531e7.css",
+    "static/js/main.ce4fec34.js"
+  ]
+}
